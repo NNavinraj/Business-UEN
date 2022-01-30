@@ -3,7 +3,7 @@ Validation of Unique entity number (UEN) of company
 
 
 
-# Packages Used (npm install at Terminal to install)
+# Packages Used (Type 'npm install' on Terminal to install)
 
  @emotion/react@11.7.1
  
@@ -48,4 +48,4 @@ Validation of Unique entity number (UEN) of company
 4)Type In http://localhost:3000/ on the adddress bar
 
 # Testing -
-Simply type npm run test on the terminal. The test file is name App.Test and it is in the __test__folder.
+Simply type 'npm run test' on the terminal. The test file is name App.Test and it is in the __test__folder.
