@@ -25,6 +25,12 @@ Validation of Unique entity number (UEN) of company
 # How To Use -
 
 1)Open Project in VisualStudio Code
+
 2)Type npm start at terminal
+
 3)Open explorer of your choice
+
 4)Type In http://localhost:3000/ on the adddress bar
+
+# Testing -
+Simply type npm run test on the terminal. The test file is name App.Test and it is in the __test__folder.
