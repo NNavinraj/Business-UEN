@@ -1,5 +1,5 @@
 # Business-UEN
-Validation of Unique entity number (UEN) of company
+User will input an UEN. Verify the string comply with the correct format.
 
 
 
